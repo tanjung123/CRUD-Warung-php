@@ -1,0 +1,34 @@
+body {
+	background-color: #15afb9;
+	background-image: url(gambar/bush.png);
+	}
+h1 { 
+	background: url(gambar/bananas.png) center center no-repeat;
+	color: #ff0a0a; 
+	font-family: arial, verdana, sans-serif;
+	font-size: 35px;
+	text-align: center;
+	font-variant: small-caps;
+	font-style: italic;
+	font-weight: bold;
+	}
+a { text-decoration: none;
+font-size: 18px; }
+table {
+	background: #fff url(gambar/trees.png);
+	font-family: georgia, serif;
+	text-align: center;
+}
+th {
+	color: blue;
+}
+td {
+	color: #0578a8;
+}
+ul {
+	
+	font-weight: bold;
+}
+br {
+	font-size: 10px;
+}
